@@ -1,4 +1,4 @@
-# Hi, I'm Göktuğ 👋
+# Hi, I'm Göktuğ
 
 I'm an MSc Electronics & ICT Engineering Technology candidate at KU Leuven, interested in software engineering, applied AI, signal processing, telecom-oriented systems, and computer vision.
 
