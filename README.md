@@ -12,7 +12,7 @@ My work focuses on building engineering software and machine learning pipelines 
 - Software engineering for engineering applications
 - Mobile/web systems and data-driven applications
 
-## 🧠 Selected Projects
+## Selected Projects
 
 ### Generative Gaze Modelling for Visual Search
 Developed an autoregressive scanpath generation model for GUI visual search, combining screenshot features, task cues, fixation history, and structured UI-element information.
@@ -34,7 +34,7 @@ Developed a machine learning application for wind and solar energy production pr
 
 **Tech:** Python, Machine Learning, Web Application
 
-## 🛠️ Technologies
+## Technical Skills
 
 **Programming:** Python, Java, C, SQL, MATLAB, JavaScript/TypeScript  
 **AI/ML:** PyTorch, Machine Learning, Deep Learning, Computer Vision, NLP, Diffusion Models, Transformers  
